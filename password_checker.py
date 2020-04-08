@@ -1,3 +1,8 @@
+"""
+Github link : https://github.com/WilliamLynn2002/practical/blob/master/password_checker.py
+"""
+
+
 MIN_LENGTH = 2
 MAX_LENGTH = 6
 SPECIAL_CHARS_REQUIRED = False
