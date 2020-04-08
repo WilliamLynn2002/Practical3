@@ -1,3 +1,8 @@
+"""
+Github link : https://github.com/WilliamLynn2002/practical/blob/master/broken_score.py
+"""
+
+
 def main():
 
     score = float(input("Enter score: "))
